@@ -46,6 +46,7 @@ typings/
 # Optional npm cache directory
 .npm
 
+
 # Optional eslint cache
 .eslintcache
 
@@ -99,3 +100,13 @@ local.settings.json
 __blobstorage__
 __queuestorage__
 __azurite_db*__.json
+
+
+# other stuff
+
+node_modules
+deploy.zip
+bin
+obj
+
+.vscode
